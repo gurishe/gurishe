@@ -14,3 +14,5 @@ I have programmed in Python, C, Java, R, and SQL, worked with a variety of datab
 Some of my recent academic projects have included creating a RESTful web server linked to a remote database, implementing TCP/IP using raw sockets, and designing a MySQL database. 
 
 My current goal is to find an internship or co-op that will allow me to deepen my technical skills with real-world experience and provide a strong starting point for a full-time career in the world of technology.
+
+Please reach me at [gurish.e@northeastern.edu](mailto:gurish.e@northeastern.edu).
