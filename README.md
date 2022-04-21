@@ -9,7 +9,7 @@ Working for smaller organizations has had me wearing many hats in my various rol
 This has taught me how to adapt to new problems as they arise and prevent them before they occur. 
 I am energized by these new challenges and enjoy the discovery process in solving them.
 
-In my MSCS program I am actively laying the foundation for more technical skills. 
+In my MSCS program I am actively laying the foundation to build upon my technical skills. 
 I have programmed in Python, C, Java, R, and SQL, worked with a variety of database management systems like MySQL and DynamoDB, and have most recently started working the AWS Web Services like EC2, RDS, and S3. 
 Some of my recent academic projects have included creating a RESTful web server linked to a remote database, implementing TCP/IP using raw sockets, and designing a MySQL database. 
 
