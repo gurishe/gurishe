@@ -13,6 +13,6 @@ In my MSCS program I am actively laying the foundation to build upon my technica
 I have programmed in Python, C, Java, R, and SQL, worked with a variety of database management systems like MySQL and DynamoDB, and have most recently started working the AWS Web Services like EC2, RDS, and S3. 
 Some of my recent academic projects have included creating a RESTful web server linked to a remote database, implementing TCP/IP using raw sockets, and designing a MySQL database. 
 
-My current goal is to find an internship or co-op that will allow me to deepen my technical skills with real-world experience and provide a strong starting point for a full-time career in the world of technology.
+I currently work as a Software Developer at CABEM Technologies in Newton, MA.
 
 Please reach me at [gurish.e@northeastern.edu](mailto:gurish.e@northeastern.edu).
