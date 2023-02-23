@@ -1,6 +1,6 @@
 # Hello! I'm Ernie Gurish 👋  
 
-I am currently pursuing my Master’s in Computer Science at Northeastern University while working full-time as a Registrar at The Rivers School Conservatory. 
+I recently completed my Master’s in Computer Science at Northeastern University while working full-time. 
 In my past positions I have worked closely with a variety of registration databases and online banking sub-systems. 
 These experiences have forged me into an active learner and proactive problem solver. 
 
